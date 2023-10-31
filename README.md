@@ -8,3 +8,7 @@ This is a small pygame game using the below giving images. The game's name is "A
 
 ### Robot
 ![Robot](./robot.png)
+### Coins
+![Coin](./coin.png)
+### Robot
+![Monster](./monster.png)
