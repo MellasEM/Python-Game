@@ -7,4 +7,4 @@ This is a small pygame game using the below giving images. The game's name is "A
 * Avoid getting hit by the monster three times(The game will rest if the player get hit three times)
 
 ###Robot
-[Robot](:/robot.png)
+![Robot](./robot.png)
